@@ -2,4 +2,5 @@
 Другая строка
 
 Hello, Git!
+Hello,Skvosh!
 
